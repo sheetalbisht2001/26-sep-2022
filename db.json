@@ -1,0 +1,31 @@
+{
+    "user" : [
+        {
+            "name" : "Swanand",
+            "age" : 25
+        }
+    ],
+    "admin" : [
+        {
+            "name" : "aditya",
+            "age" : 25
+        }
+    ],
+    "todo" : [
+        {
+            "name" : "Task-1",
+            "sold" : false
+        }
+    ],
+    "store" : [{
+        "name" : "Hardik"
+    }],
+    "test" : [
+        {
+            "name" : "Vivek",
+            "sold" : true,
+            "type" : "Employee"
+        }
+    ],
+    "Products": []
+}
